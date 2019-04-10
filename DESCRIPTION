@@ -1,5 +1,5 @@
 Package: micar
-Version: 1.1.0
+Version: 1.1.1
 Title: 'Mica' Data Web Portal Client
 Authors@R: 
     c(person(given = "Yannick",
@@ -28,9 +28,9 @@ RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2019-02-12 17:23:12 UTC; yannick
+Packaged: 2019-04-10 17:07:18 UTC; yannick
 Author: Yannick Marcon [aut, cre] (<https://orcid.org/0000-0003-0138-2023>),
   OBiBa group [cph]
 Maintainer: Yannick Marcon <yannick.marcon@obiba.org>
 Repository: CRAN
-Date/Publication: 2019-02-22 13:30:02 UTC
+Date/Publication: 2019-04-10 17:22:46 UTC
