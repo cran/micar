@@ -1,5 +1,5 @@
 Package: micar
-Version: 1.1.1
+Version: 1.1.2
 Title: 'Mica' Data Web Portal Client
 Authors@R: 
     c(person(given = "Yannick",
@@ -12,7 +12,7 @@ Authors@R:
              email="info@obiba.org"))
 Depends: R (>= 3.0.0), httr
 Imports: jsonlite
-Suggests: knitr
+Suggests: knitr, rmarkdown
 Description: 'Mica' is a server application used to create data web portals for 
     large-scale epidemiological studies or multiple-study consortia. 'Mica' helps
     studies to provide scientifically robust data visibility and web presence 
@@ -24,13 +24,13 @@ License: GPL-3
 URL: https://www.obiba.org/ https://www.obiba.org/pages/products/mica/
         https://doi.org/10.1093/ije/dyx180
 BugReports: https://github.com/obiba/micar
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 VignetteBuilder: knitr
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2019-04-10 17:07:18 UTC; yannick
+Packaged: 2021-04-16 12:23:58 UTC; yannick
 Author: Yannick Marcon [aut, cre] (<https://orcid.org/0000-0003-0138-2023>),
   OBiBa group [cph]
 Maintainer: Yannick Marcon <yannick.marcon@obiba.org>
 Repository: CRAN
-Date/Publication: 2019-04-10 17:22:46 UTC
+Date/Publication: 2021-04-16 12:50:02 UTC
